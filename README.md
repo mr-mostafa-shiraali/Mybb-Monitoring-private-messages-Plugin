@@ -21,4 +21,4 @@ Two simple condition :
 - Can Not Share Plugin with anyone.
 
 
-   ## More details : [Monitoring private messages Plugin](https://community.mybb.com/thread-242812.html)
+## More details : [Monitoring private messages Plugin](https://community.mybb.com/thread-242812.html)
